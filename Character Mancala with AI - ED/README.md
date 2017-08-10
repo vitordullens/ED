@@ -18,4 +18,4 @@
 -To capture the opponent's pieces, the last piece to be moved, must fall into an empty hole, the house in front of it loses the pieces and they go to the Kalah who stole them.
 
 ### Observation
-- To more information, acess the Report file.
+- For more information, acess the Report file.
