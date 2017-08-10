@@ -1,2 +1,2 @@
 # ED
-projects made for Data Structure 
+### Projects made for the dicipline of Data Structure
