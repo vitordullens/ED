@@ -1,18 +1,21 @@
 # Mancala game in C with Artificial Intelligence
 
-- Pode ser jogado multiplayer ou com a inteligencia artificial, produzida atraves da implementação de uma [Game Tree](https://en.wikipedia.org/wiki/Game_tree);
-- A inteligencia artificial possui 4 dificuldades, baseadas na altura da [Game Tree](https://en.wikipedia.org/wiki/Game_tree).
+- It can be played multiplayer or with artificial intelligence, produced through the implementation of a [Game Tree](https://en.wikipedia.org/wiki/Game_tree);
+- Artificial intelligence has four difficulties, based on the height of [Game Tree] (https://en.wikipedia.org/wiki/Game_tree).
 
 ## Game Objectives
 
-- Seu objetivo no jogo é capturar as 'peças' do oponente;
-- Cada jogador possui uma área que armazena os pontos na sua direita ( Kalah );
-- Quando um jogador não possuir mais peças o jogo acaba;
-- O vencedor é quem possui mais peças na sua Kalah.
+- Your objective in the game is to capture the 'pieces' of the opponent;
+- Each player has an area that stores the points on his right (Kalah);
+- When a player does not have more pieces the game ends;
+- The winner is who owns the most pieces in his Kalah.
 
 ## Game Rules
 
-- O jogador deve selecionar uma posição;
-- Ao fazer isso, todas as peças dessa posição são movidas uma a uma, para a proxima casa a direita (incluindo a Kalah e as casas do outro jogador);
-- Quando estiver movendo, se a ultima peça cair na sua Kalah, voce pode jogar novamente;
-- Para capturar as peças do adversário, a ultima peça a ser movida, deve cair em um buraco vazio, a casa a frente dela perde as peças e elas vão para a Kalah de quem as roubou.
+- The player must select a position;
+- In doing so, all pieces of this position are moved one by one, to the next house on the right (including the Kalah and the other player's houses);
+- When you are moving, if the last piece falls on your Kalah, you can play again;
+-To capture the opponent's pieces, the last piece to be moved, must fall into an empty hole, the house in front of it loses the pieces and they go to the Kalah who stole them.
+
+### Observation
+- To more information, acess the Report file.
