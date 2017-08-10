@@ -1,9 +1,9 @@
-# Calculadora Infixo para Posfixo
+# Postfix Infix Calculator
 
-Calculadora que pega uma expressao escrita de maneira infixa, passa ela para posfixa e depois calcula o valor.
-- Possiveis operaçoes: * / + - ;
-- A expressão não pode possuir espaços;
-- Pode-se utilizar parênteses para definir prioridades;
-- A entrada aceita são somente números inteiros;
-- Não é possível iniciar com números negativos.
-- Não é possível colocar operados logo após abrir parênteses  (i.e: (-1) ou (+1) )
+Calculator that takes an expression written in an infixed way, passes it to postfix, and then calculates the value.
+- Possible operations: * / + -;
+- The expression can not have spaces;
+- You can use parentheses to set priorities;
+- The input accepted are integers only;
+- You can not start with negative numbers.
+- It is not possible to place operations immediately after opening parentheses (i.e .: (-1) or (+1))
